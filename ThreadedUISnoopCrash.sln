@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadedUISnoopCrash", "ThreadedUISnoopCrash\ThreadedUISnoopCrash.csproj", "{9DA6294F-DDEF-4AC2-86CD-5FA059E5BEF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DA6294F-DDEF-4AC2-86CD-5FA059E5BEF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DA6294F-DDEF-4AC2-86CD-5FA059E5BEF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DA6294F-DDEF-4AC2-86CD-5FA059E5BEF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DA6294F-DDEF-4AC2-86CD-5FA059E5BEF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B431A57E-2475-473E-B1DF-8964D3D4E374}
+	EndGlobalSection
+EndGlobal
